@@ -1,26 +1,23 @@
-<h3 align="center">SpeakEasy</h3>
+<h1 align="center">SpeakEasy</h1>
 
----
 
-<p align="center"> Few lines describing your project.
+<p align="center"> Leveraging your communication experience.
     <br> 
 </p>
 
 ## 📝 Table of Contents
 - [About](#about)
 - [Getting Started](#getting_started)
+- [Architecture](#architecture)
 - [Deployment](#deployment)
 - [Usage](#usage)
 - [Built Using](#built_using)
-- [TODO](../TODO.md)
-- [Contributing](../CONTRIBUTING.md)
 - [Authors](#authors)
-- [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
-Write about 1-2 paragraphs describing the purpose of your project.
+SpeakEasy, a messaging application, draws inspiration from Zalo, the widely recognized Vietnamese messaging platform. It serves as a project component within the author's Software Architecture course, where emphasis is placed not only on its development but also on its architectural design and implementation. Through this endeavor, SpeakEasy aims to offer an educational exploration of modern messaging app architectures while incorporating features reminiscent of Zalo's functionality and user experience.
 
-## 🏁 Getting Started <a name = "getting_started"></a>
+## 🏁 Getting Started <a name = "getting_started"></a> (to be updated)
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
 
 ### Prerequisites
@@ -64,10 +61,13 @@ Explain what these tests test and why
 Give an example
 ```
 
-## 🎈 Usage <a name="usage"></a>
+## 🏰 Architecture <a name="architecture"></a> (to be updated)
+Multi layered Architecture
+
+## 🎈 Usage <a name="usage"></a> (to be updated)
 Add notes about how to use the system.
 
-## 🚀 Deployment <a name = "deployment"></a>
+## 🚀 Deployment <a name = "deployment"></a> (to be updated)
 Add additional notes about how to deploy this on a live system.
 
 ## ⛏️ Built Using <a name = "built_using"></a>
@@ -80,8 +80,3 @@ Add additional notes about how to deploy this on a live system.
 - [@ret1s](https://github.com/ret1s) - Idea & Initial work
 
 See also the list of [contributors](https://github.com/ret1s/speakeasy/contributors) who participated in this project.
-
-## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-- Hat tip to anyone whose code was used
-- Inspiration
-- References
