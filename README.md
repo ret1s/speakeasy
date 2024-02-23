@@ -62,7 +62,7 @@ Give an example
 ```
 
 ## 🏰 Architecture <a name="architecture"></a> (to be updated)
-Multi layered Architecture
+Multi layered Architecture.
 
 ## 🎈 Usage <a name="usage"></a> (to be updated)
 Add notes about how to use the system.
