@@ -21,12 +21,12 @@ public class Friendship {
     private FriendshipId id;
 
     @ManyToOne
-    @MapsId("userId") // Part of the embedded ID
+    @MapsId("userId")
     @JoinColumn(name = "user_id")
     private User user;
 
     @ManyToOne
-    @MapsId("friendId") // Part of the embedded ID
+    @MapsId("friendId")
     @JoinColumn(name = "friend_id")
     private User friend;
 
